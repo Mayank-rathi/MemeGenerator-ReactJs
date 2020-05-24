@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5a5331-154c-4553-ad4e-3009dc652bbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/MemeGenerator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -76,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590064185882</updated>
-      <workItem from="1590064192283" duration="2159000" />
+      <workItem from="1590064192283" duration="25599000" />
     </task>
     <servers />
   </component>
